@@ -1,0 +1,11 @@
+Celsius Conversions
+Celsius to Fahrenheit:F = (C * 9/5) + 32 or F = (C * 1.8) + 32
+Celsius to Kelvin:K = C + 273.15
+
+Fahrenheit Conversions
+Fahrenheit to Celsius:C = (F - 32) * 5/9 or C = (F - 32) * 1.8
+Fahrenheit to Kelvin:K = (F - 32) * 5/9 + 273.15
+
+Kelvin Conversions
+Kelvin to Celsius:C = K - 273.15
+Kelvin to Fahrenheit:F = (K - 273.15) * 9/5 + 32
