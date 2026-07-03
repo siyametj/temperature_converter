@@ -31,6 +31,7 @@ fn main() {
             println!("TEMPERATURE CONVERTER (RESTARTED)");
         } else {
             println!("Thanks for using this program. Goodbye!");
+            break
         }
     }
 }
