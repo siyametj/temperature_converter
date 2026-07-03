@@ -23,6 +23,6 @@ pub fn convert_temperature(value: f64, from_unit: char, to_unit: char) -> f64 {
     }
 }
 
-pub fn print_result(value: f64, to_unit: char, from_unit: char, result: f64) {
+pub fn print_result(value: f64, from_unit: char, result: f64, to_unit: char) {
     println!("{:.2}°{} = {:.2}°{}", value, from_unit, result, to_unit);
 }
